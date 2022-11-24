@@ -1,0 +1,5 @@
+# this is here to:
+#  - ensure the folder exists in git
+#  - ignore the files
+*.js
+*.log
